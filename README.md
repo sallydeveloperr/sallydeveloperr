@@ -1,7 +1,8 @@
-###### Hi, I'm Yu Jeong. I'm developing to make services that will improve our lives!👋
+## Hi, I'm Yu Jeong. I'm developing to make services that will improve our lives!👋
 ---------------------------------------------------------------------------------------
- *🤔 I’m looking for open source to contribute
- *🌱 I’m currently learning Web Full Stack
+🤔I’m looking for open source to contribute
+
+🌱I’m currently learning Web Full Stack
 <!--
 **sallydeveloperr/sallydeveloperr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

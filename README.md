@@ -1,5 +1,6 @@
 ## Hi, I'm Yu Jeong. I'm developing to make services that will improve our lives!👋
 
++ :computer:College Student
 + 🤔I’m looking for open source to contribute
 + 🌱I’m currently learning Web Full Stack
 + :weight_lifting:I love CrossFit !

@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Yu Jeong. I'm developing to make services that will improve our lives!👋
 
 <!--
 **sallydeveloperr/sallydeveloperr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

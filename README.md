@@ -2,8 +2,7 @@
 
 + :mortar_board:I'm majoring in Digital Media & Software Convergence
 + 🤔I’m looking for open source to contribute
-+ 🌱I’m currently learning web full stack
-+ :weight_lifting:I do love crossfit !
+
 <!--
 **sallydeveloperr/sallydeveloperr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

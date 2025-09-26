@@ -2,7 +2,7 @@
 <div align="center">
 
 # 👋 Hi there, I’m **Yujeong Choi**  
-네트워크 엔지니어와 모터스포츠 엔지니어링을 꿈꾸는 학생입니다.  
+네트워크 엔지니어와 데이터 엔지니어링을 꿈꾸는 학생입니다.  
 AI, 네트워크, 임베디드 시스템, 데이터 분석에 열정을 가지고 있습니다.
 
 <!-- 소셜 배지 -->
@@ -30,7 +30,6 @@ AI, 네트워크, 임베디드 시스템, 데이터 분석에 열정을 가지�
   "double_major": "Software Convergence",
   "hobbies": [
     "CrossFit & Fitness",
-    "Formula 1 & Motorsport",
     "Competitive Programming (SQL, Python)",
     "Art Exhibitions & Photography"
   ]
@@ -107,7 +106,7 @@ AI, 네트워크, 임베디드 시스템, 데이터 분석에 열정을 가지�
 * SQLD (SQL 개발자)
 * 리눅스마스터 2급
 * 네트워크관리사 2급
-* (준비 중) 정보처리기사
+* 정보처리기사
 
 </details>
 

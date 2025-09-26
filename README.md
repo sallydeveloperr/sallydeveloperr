@@ -2,14 +2,14 @@
 <div align="center">
 
 # 👋 Hi there, I’m **Yujeong Choi**  
-네트워크 엔지니어와 데이터 엔지니어링을 꿈꾸는 학생입니다.  
-AI, 네트워크, 임베디드 시스템, 데이터 분석에 열정을 가지고 있습니다.
+네트워크 엔지니어와 AI·데이터 분석에 관심이 많은 학생입니다.  
+효율적인 코드 작성과 문제 해결을 통해 성장하는 것을 목표로 합니다.
 
 <!-- 소셜 배지 -->
 <p align="center">
   <a href="https://github.com/sallydeveloperr"><img src="https://img.shields.io/github/followers/sallydeveloperr?label=Follow&style=social"></a>
-  <a href="www.linkedin.com/in/유정-최-534b60311"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
-  <a href="blog.naver.com/sallychoe"><img src="https://img.shields.io/badge/Blog-21759B?logo=wordpress&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/유정-최-534b60311"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+  <a href="https://blog.naver.com/sallychoe"><img src="https://img.shields.io/badge/Blog-03C75A?logo=naver&logoColor=white"></a>
   <a href="mailto:sallychoe@naver.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 </p>
 </div>
@@ -72,7 +72,7 @@ AI, 네트워크, 임베디드 시스템, 데이터 분석에 열정을 가지�
 |  2024 | **Corning AI Challenge (한양대 X Corning)**          | 키워드 기반 AI 뉴스 추천 시스템 설계·구현                                                                      | -                                                               |
 | 2024~ | **Barom Comprehensive Design Project (디지털 가디언즈)** | 불법 패스트무비 저작권 보호 캠페인 (카드뉴스, 캠페인, 딥페이크 탐지 서비스 시연)                                                | -                                                               |
 |  2025 | **SKN 20기 – 1차 프로젝트 (Bikini City)**               | MOLIT 자동차 등록 현황 데이터 + 현대·기아 FAQ 크롤링을 활용한 고객지원 FAQ 개선 연구 <br> 데이터 전처리, Streamlit UI, DB 구축, 시각화 | [Repo](https://github.com/SKN20-1ST-2TEAM/Car_Registration_FAQ) |
-|  2025 | **Sally’s Network Blog**                          | 네트워크·SQL·리눅스 기술 블로그 운영 (WordPress)                                                             | [sallychoe.com](https://sallychoe.com)                          |
+|  2025 | **Sally’s Network Blog**                          | 네트워크·SQL·리눅스 기술 블로그 운영 (Naver)                                                                 | [Blog](https://blog.naver.com/sallychoe)                        |
 
 </details>
 
@@ -106,7 +106,7 @@ AI, 네트워크, 임베디드 시스템, 데이터 분석에 열정을 가지�
 * SQLD (SQL 개발자)
 * 리눅스마스터 2급
 * 네트워크관리사 2급
-* 정보처리기사
+* (준비 중) 정보처리기사
 
 </details>
 
@@ -114,21 +114,20 @@ AI, 네트워크, 임베디드 시스템, 데이터 분석에 열정을 가지�
 
 ## 🌱 I’m currently learning
 
-`Network Engineering`, `Data Center Efficiency`, `Python Automation`, `F1 Hybrid & E-Fuels`
+`Network Engineering`, `Data Center Efficiency`, `Python Automation`, `AI for Data Applications`
 
 ## 📫 How to reach me
 
 <p align="center">
   <a href="https://github.com/sallydeveloperr"><img src="https://img.shields.io/github/followers/sallydeveloperr?label=Follow&style=social"></a>
-  <a href="https://www.linkedin.com/in/yujeongchoi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
-  <a href="https://sallychoe.com"><img src="https://img.shields.io/badge/Blog-21759B?logo=wordpress&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/유정-최-534b60311"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+  <a href="https://blog.naver.com/sallychoe"><img src="https://img.shields.io/badge/Blog-03C75A?logo=naver&logoColor=white"></a>
   <a href="mailto:sallychoe@naver.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
 <p align="center">
-  🚀 Thanks for visiting! Always moving forward. 🏎️
+  🚀 Thanks for visiting! Always moving forward.
 </p>
 ```
-

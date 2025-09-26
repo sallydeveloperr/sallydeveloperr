@@ -31,7 +31,8 @@
   "hobbies": [
     "CrossFit & Fitness",
     "Competitive Programming (SQL, Python)",
-    "Art Exhibitions & Photography"
+    "Art Exhibitions & Photography",
+    "Eat sushi"
   ]
 }
 ````

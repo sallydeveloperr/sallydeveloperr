@@ -8,8 +8,8 @@ AI, 네트워크, 임베디드 시스템, 데이터 분석에 열정을 가지�
 <!-- 소셜 배지 -->
 <p align="center">
   <a href="https://github.com/sallydeveloperr"><img src="https://img.shields.io/github/followers/sallydeveloperr?label=Follow&style=social"></a>
-  <a href="https://www.linkedin.com/in/yujeongchoi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
-  <a href="https://sallychoe.com"><img src="https://img.shields.io/badge/Blog-21759B?logo=wordpress&logoColor=white"></a>
+  <a href="www.linkedin.com/in/유정-최-534b60311"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+  <a href="blog.naver.com/sallychoe"><img src="https://img.shields.io/badge/Blog-21759B?logo=wordpress&logoColor=white"></a>
   <a href="mailto:sallychoe@naver.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 </p>
 </div>

@@ -79,21 +79,6 @@
 
 ---
 
-## 🌱 I’m currently learning
-
-`Network Engineering`, `Data Center Efficiency`, `Python Automation`, `AI for Data Applications`
-
-## 📫 How to reach me
-
-<p align="center">
-  <a href="https://github.com/sallydeveloperr"><img src="https://img.shields.io/github/followers/sallydeveloperr?label=Follow&style=social"></a>
-  <a href="https://www.linkedin.com/in/유정-최-534b60311"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
-  <a href="https://blog.naver.com/sallychoe"><img src="https://img.shields.io/badge/Blog-03C75A?logo=naver&logoColor=white"></a>
-  <a href="mailto:sallychoe@naver.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-</p>
-
----
-
 <p align="center">
   🚀 Thanks for visiting! Always moving forward.
 </p>

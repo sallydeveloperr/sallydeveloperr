@@ -16,29 +16,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-```json
-{
-  "name": "Choi Yujeong",
-  "position": [
-    "Network Engineering",
-    "Embedded Systems",
-    "AI/ML Applications"
-  ],
-  "major": "Digital Media",
-  "double_major": "Software Convergence",
-  "hobbies": [
-    "CrossFit & Fitness",
-    "Competitive Programming (SQL, Python)",
-    "Art Exhibitions & Photography",
-    "Eat sushi"
-  ]
-}
-````
-
----
-
 ## 🛠️ Tech Stack
 
 | 영역                     | 스택                                                                                                                                                                                                                                                                                                                                       |
@@ -50,17 +27,6 @@
 | **Tools**              | ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)          |
 
 ---
-
-## 📊 My Stats
-
-<div align="center">
-
-![Yujeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sallydeveloperr\&show_icons=true\&theme=dracula)
-
-</div>
-
----
-
 ## 🏅 Activities
 
 <details>

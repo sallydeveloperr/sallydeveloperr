@@ -34,6 +34,7 @@
 
 ### 1) ⚖️ FTOGuard: 특허 침해 리스크 분석 플랫폼
 > **SKN AI Camp 20기 — 5차 프로젝트**
+> 
 > **Repository**: [🔍 FTO 중심 특허·디자인 침해 리스크 판단 AI 에이전트](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-FINAL-2TEAM.git) 
 
 제품 출시 전, 특허 침해 가능성을 **신호등(🔴🟡🟢) 시스템**으로 즉시 진단하는 법리 기반 AI 에이전트입니다.
@@ -54,6 +55,7 @@
 
 ### 2) 🤖 Boss Baby AI: RAG 기반 창업 지원 챗봇
 > **SKN AI Camp 20기 — 4차 프로젝트**
+> 
 > **Repository**: [🚀 Boss Baby AI - 창업 지원 통합 플랫폼](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-4th-4TEAM)
 
 15,510개 벡터 문서 기반으로 예비 창업자에게 정확한 정보를 제공하고, AI 사업계획서 분석과 일정 자동 추출까지 지원하는 올인원 창업 파트너입니다.
@@ -77,7 +79,7 @@
 > 
 > **Repository**: [Moonlog - 감정 일기 코칭 앱 🌙](https://github.com/yeongcho/Moonlog.git)
 > 
-> **🏆 Awards**: 서울여자대학교 Programming GURU2 **우수상**
+> **Awards**: 서울여자대학교 Programming GURU2 **우수상**
 
 하루를 마무리하며 감정을 기록하면, Gemini API가 원인을 분석하고 즉시 실행 가능한 행동을 제안하는 Android 감정 관리 앱입니다.
 

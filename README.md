@@ -74,7 +74,9 @@
 
 ### 3) 🌙 Moonlog: AI 감정 코칭 다이어리 앱
 > **서울여자대학교 Programming GURU2**
+> 
 > **Repository**: [Moonlog - 감정 일기 코칭 앱 🌙](https://github.com/yeongcho/Moonlog.git)
+> 
 > **🏆 Awards**: 서울여자대학교 Programming GURU2 **우수상**
 
 하루를 마무리하며 감정을 기록하면, Gemini API가 원인을 분석하고 즉시 실행 가능한 행동을 제안하는 Android 감정 관리 앱입니다.

@@ -1,10 +1,13 @@
+<p align="center">
+  <a href="#-about-me">소개</a> ·
+  <a href="#-featured-projects">프로젝트</a> ·
+  <a href="#-tech-stack">기술 스택</a> ·
+  <a href="#-education--awards">수상 및 교육</a>
+</p>
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=240&section=header&text=Hello,%20I'm%20YuJeong&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Driven%20Solution&descAlignY=60"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Hello,%20I'm%20YuJeong&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Driven%20Solution&descAlignY=55&descAlign=50" />
 </div>
-
-<br>
 
 <div align="center">
 
@@ -12,27 +15,14 @@
 
 **"데이터 흐름을 설계하고, AI로 실무의 비효율을 해결합니다."**
 
-문제의 본질을 파악하여 **최적의 모델을 선정(Model Selection)** 하고  
+문제의 본질을 파악하여 **최적의 모델을 선정(Model Selection)** 하고,  
 사용자가 실제로 활용 가능한 **안정적인 서비스(Full-Stack AI)** 를 구축합니다.
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 🔎 Navigation
-
-<a href="#-about-me">소개</a> •
-<a href="#-featured-projects">프로젝트</a> •
-<a href="#-tech-stack">기술 스택</a> •
-<a href="#-education--awards">수상 및 교육</a>
 
 </div>
 
 ---
 
-# 🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 
 - 🎯 **Focus**: Domain-Specific **sLLM Fine-tuning**, **RAG Optimization**, **Agentic Workflow**
 - 💡 **Strength**: 
@@ -42,7 +32,7 @@
 
 ---
 
-# 💼 Featured Projects
+## 💼 Featured Projects
 
 ### 1) ⚖️ FTOGuard: 특허 침해 리스크 분석 플랫폼
 
@@ -60,8 +50,6 @@ RAG 기반 특허 검색과 파인튜닝된 sLLM을 결합하여 **법률 전문
   - **Multi-Agent Workflow**: LangGraph 기반 에이전트 구조로 **특허 분석·디자인 유사도 검색·리포트 생성 자동화**
   - **Vision-Language Analysis**: CLIP + Qwen2.5-VL을 활용하여 **디자인 특허 이미지 유사도 분석 및 리스크 설명 생성**
   - **Cloud AI Infrastructure**: AWS EC2/RDS/S3 + RunPod GPU 서버를 활용한 **LLM 추론 파이프라인 구축**
-
-<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -86,8 +74,6 @@ RAG 기반 특허 검색과 파인튜닝된 sLLM을 결합하여 **법률 전문
   - **Real-time Streaming**: Django Channels + Redis 기반 타이핑 스트리밍 응답
   - **Stack**: Django · FastAPI · ChromaDB · MySQL · GPT-4o-mini · Docker
 
-<br>
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -110,18 +96,15 @@ RAG 기반 특허 검색과 파인튜닝된 sLLM을 결합하여 **법률 전문
   - **Card Image Export**: 분석 결과를 이미지 카드로 저장 (갤러리 연동)
   - **Stack**: Android · Kotlin · Gemini API · Firebase
 
-<br>
-
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### 🧠 AI & Data
-<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -129,10 +112,7 @@ RAG 기반 특허 검색과 파인튜닝된 sLLM을 결합하여 **법률 전문
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-</div>
-
 ### 💻 Backend & Infra
-<div align="center">
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -140,32 +120,38 @@ RAG 기반 특허 검색과 파인튜닝된 sLLM을 결합하여 **법률 전문
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
-
 ---
 
-# 🏆 Education & Awards
+## 🏆 Education & Awards
 
 ### 🏅 Awards
-- **서울여자대학교 Programming GURU1** | 수료 (2023.01)
-- **서울여자대학교 Programming GURU2** | 우수상 (2026.01)
-- **SK네트웍스 Family AI Camp 최종 프로젝트** | 우수상 (2026.03)
+
+- **서울여자대학교 Programming GURU1** | 수료 (2023.01)  
+  - 주제: HTML/Python 22조 해커톤 팀장
+
+- **서울여자대학교 Programming GURU2** | 우수상 (2026.01)  
+  - 주제: AI가 감정을 분석하고 오늘 실천 가능한 감정 완화 솔루션을 제안하는 감정 코칭 애플리케이션
+
+- **SK네트웍스 Family AI Camp 최종 프로젝트** | 우수상 (2026.03)  
+  - 주제: FTO 중심 특허·디자인 침해 리스크 판단 AI 에이전트
 
 ### 🎓 Education
+
 - **SK Networks Family AI Camp (20기)** | AI/SW 개발자 과정 수료 (2025.09 - 2026.03)
 - **LG Aimers** | AI 전문가 양성 과정 Phase 1·2·3 수료
 - **Corning AI Challenge** | 키워드 기반 AI 뉴스 추천 시스템 개발
-- **광명시 청소년 멘토링 프로그램 (IT 멘토)** | IT 교육 및 진로 멘토링
-- **서울여자대학교 바롬종합설계프로젝트**
-- **서울여자대학교** | 디지털미디어학과/소프트웨어융합학과 졸업
+- **광명시 청소년 멘토링 프로그램 (IT 멘토)** | 중·고등학생 대상 IT 기초 교육 및 진로 멘토링 수행
+- **서울여자대학교 바롬종합설계프로젝트** | 불법 동영상 유포 및 저작권 침해 방지 캠페인 기획·수행
+- **서울여자대학교** | 디지털미디어학과/ 소프트웨어융합학과 졸업 (학점 /4.5)
 - **서울여자대학교 멋쟁이사자처럼 14기** | Backend Developer (2026.03 - 2026.12)
 
 ### 📜 Certificates
-- 데이터분석 준전문가 (ADsP)
-- SQL 개발자 (SQLD)
-- 정보처리기사
-- 리눅스마스터 2급
-- 컴퓨터활용능력
+
+- **데이터분석 준전문가 (ADsP)** | 한국데이터산업진흥원
+- **SQL 개발자 (SQLD)** | 한국데이터산업진흥원
+- **정보처리기사** | 한국산업인력공단
+- **리눅스마스터 2급** | 한국정보통신진흥협회
+- **컴퓨터활용능력** | 대한상공회의소
 
 ---
 

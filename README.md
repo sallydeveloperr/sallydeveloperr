@@ -65,19 +65,25 @@ RAG 기반 특허 검색과 파인튜닝된 sLLM을 결합하여 **법률 전문
 > **SKN AI Camp 20기 — 4차 프로젝트**  
 > **Repository**: [🚀 Boss Baby AI - 창업 지원 통합 플랫폼](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-4th-4TEAM)
 
-15,510개 벡터 문서 기반으로 예비 창업자에게 정확한 정보를 제공하고, AI 사업계획서 분석과 일정 자동 추출까지 지원하는 올인원 창업 파트너입니다.
+예비 창업자와 초기 스타트업이 **지원사업 정보 탐색, 사업계획서 분석, 일정 관리**를 한 번에 수행할 수 있도록 설계된 **RAG 기반 창업 지원 AI 플랫폼**입니다.  
+15,510개의 창업 관련 데이터를 벡터화하여 정확한 검색을 제공하고, AI 사업계획서 분석과 지원사업 일정 관리 기능을 통합한 올인원 창업 도우미 시스템입니다.
 
-- **Role**: Frontend Developer, PM 보조, 문서화
+- **Role**: Backend Developer (Database & API)
 - **Key Tech**:
-  - **Hybrid RAG**: ChromaDB(벡터) + MySQL(정형) + Tavily API(웹 검색) 3-Way 라우팅으로 검색 정확도 **92.8%** 달성
-  - **Auto-Schedule Extraction**: LLM이 답변에서 날짜를 감지해 캘린더에 자동 등록
-  - **Real-time Streaming**: Django Channels + Redis 기반 타이핑 스트리밍 응답
-  - **Stack**: Django · FastAPI · ChromaDB · MySQL · GPT-4o-mini · Docker
+  - **Advanced RAG Pipeline**: Query Transformation + Multi-Query 전략을 적용하여 **15,510개 문서 기반 검색 정확도 92.8% 달성**
+  - **3-Way Retrieval Architecture**: **Internal RAG → Web Search → AI Fallback** 구조로 정보 공백 없는 100% 커버리지 구현
+  - **AI Business Plan Analysis**: 벤처투자 전문가 페르소나 기반 **8개 항목 사업계획서 평가 및 개선 로드맵 생성**
+  - **Calendar Event Extraction**: LLM 응답에서 날짜 패턴을 자동 감지하여 **지원사업 일정 자동 생성 및 D-Day 관리**
+  - **Hybrid Web Architecture**: **Django (Frontend) + FastAPI (AI Backend)** 기반 마이크로 서비스 구조 설계
+  - **Vector Search Infrastructure**: ChromaDB 벡터 DB와 OpenAI Embedding을 활용한 창업 데이터 검색 시스템 구축
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20DB-7C3AED?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -87,18 +93,108 @@ RAG 기반 특허 검색과 파인튜닝된 sLLM을 결합하여 **법률 전문
 > **Repository**: [Moonlog - 감정 일기 코칭 앱 🌙](https://github.com/yeongcho/Moonlog.git)  
 > **Awards**: 서울여자대학교 Programming GURU2 **우수상**
 
-하루를 마무리하며 감정을 기록하면, Gemini API가 원인을 분석하고 즉시 실행 가능한 행동을 제안하는 Android 감정 관리 앱입니다.
+사용자가 하루의 감정과 일기를 기록하면 **AI가 감정 트리거를 분석하고 즉시 실행 가능한 행동을 제안하는 감정 코칭 모바일 애플리케이션**입니다.  
+Gemini API 기반 감정 분석과 데이터 시각화를 결합하여 **사용자가 자신의 감정 패턴을 이해하고 관리할 수 있도록 설계된 Android 앱**입니다.
 
-- **Role**: PM, 발표, 전체 일정 조율 (기획→개발→발표)
+- **Role**: Frontend Developer (Onboarding, Authentication, Calendar UI)
 - **Key Tech**:
-  - **AI Emotion Coaching**: Gemini API 기반 트리거 분석 + 3가지 맞춤 솔루션 제안
-  - **비회원 → 회원 전환**: 세션 기반 비회원 데이터가 회원 전환 시 자동 마이그레이션
-  - **Card Image Export**: 분석 결과를 이미지 카드로 저장 (갤러리 연동)
-  - **Stack**: Android · Kotlin · Gemini API · Firebase
+  - **AI Emotion Analysis**: Google **Gemini API**를 활용하여 감정 요약, 트리거 분석 및 맞춤형 감정 완화 행동 제안
+  - **Emotion Pattern Visualization**: **MPAndroidChart**를 활용하여 월간 감정 흐름과 패턴을 시각화
+  - **Interactive Emotion Diary**: 감정 선택 기반 일기 작성 및 **AI 분석 카드 이미지 저장 기능** 제공
+  - **Mobile Architecture**: **Android Jetpack (Navigation, Lifecycle, ViewBinding)** 기반 구조 설계
+  - **User Experience Design**: 밤하늘 테마 기반 감정 안정 중심 UX 및 **비회원 모드 지원**
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![MPAndroidChart](https://img.shields.io/badge/MPAndroidChart-Visualization-blueviolet?style=flat-square)
+![OkHttp](https://img.shields.io/badge/OkHttp-Networking-000000?style=flat-square)
+---
+
+### 4) 🦁 AI Startup Policy Chatbot: 창업자를 위한 RAG 기반 정책 안내 챗봇
+
+> **SKN AI Camp 20기 — 3차 프로젝트**  
+> **Repository**: [🚀 창업자를 위한 AI 정책 안내 챗봇](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-3rd-4TEAM.git)
+
+
+초기 창업자가 겪는 **정부 지원사업·법령·창업 정책 정보 탐색의 어려움**을 해결하기 위해 개발한 **RAG 기반 AI 정책 안내 챗봇**입니다.  
+중소벤처기업부 및 K-Startup 데이터를 기반으로 **신뢰 가능한 창업 정책 정보를 검색·요약**하고, Query Transformation과 Multi-Query Retrieval을 통해 **검색 정확도를 개선**했습니다.
+
+- **Role**: Backend & RAG Pipeline Developer
+
+- **Key Tech**:
+  - **RAG Architecture**: LangChain + ChromaDB 기반 **7개 데이터 유형 통합 Retrieval 시스템 구축**
+  - **Query Optimization**: Query Transformation + Multi-Query Retrieval 적용으로 **검색 정확도 및 문서 재현율 개선**
+  - **Prompt Routing**: 질문 유형(추천 / 법령 / 일반 Q&A)에 따라 **프롬프트 자동 라우팅 설계**
+  - **Chunking Strategy**: 문서 유형별 **맞춤 Chunk Size 및 Overlap 전략** 적용하여 검색 품질 향상
+  - **Hallucination Mitigation**: LLM 응답을 **Context 기반으로 제한하는 프롬프트 설계**
+
+- **Key Features**
+  - 📄 창업 지원사업, 창업 공간, 법령, 실패 사례 등 **다중 문서 통합 검색**
+  - 🔍 창업 정책 질의응답 **AI 챗봇 인터페이스**
+  - 📚 모든 답변에 **참고 문서 출처 자동 표시**
+  - 💬 Streamlit 기반 **대화형 사용자 인터페이스**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-412991?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-VectorDB-blue?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+---
+
+### 5) 🚗 공공 자동차 등록 데이터 & 기업 FAQ 분석 플랫폼
+> **Repository**: [🚗 공공 자동차 등록 데이터 & 기업 FAQ 분석 플랫폼](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-1ST-2TEAM.git)
+
+국토교통부 자동차등록현황 공공데이터와 현대·기아 자동차 FAQ 데이터를 활용하여  
+**자동차 등록 현황 분석과 고객지원 FAQ 구조 개선 방안을 도출한 데이터 분석 프로젝트**입니다.  
+공공 통계 데이터 분석과 기업 FAQ 크롤링을 결합하여 **데이터 기반 고객지원 서비스 개선 가능성**을 제시했습니다.
+
+- **Role**: Frontend Developer & Data Processing
+
+- **Key Tech**:
+  - **Public Data Pipeline**: 국토교통부 자동차 등록 API를 활용하여 **시도별 차량 등록 데이터를 수집·정규화 후 MySQL DB 구축**
+  - **FAQ Crawling System**: Selenium 기반 **현대·기아 자동차 FAQ 데이터 자동 수집 및 텍스트 정제**
+  - **Data Modeling**: 자동차 등록 데이터와 FAQ 데이터를 관리하기 위한 **ERD 설계 및 DB 테이블 구조 정의**
+  - **Interactive Dashboard**: Streamlit 기반 **자동차 등록 현황 시각화 UI 설계 및 데이터 대시보드 구현**
+
+- **Key Features**
+  - 📊 **시도별 자동차 등록 현황 분석** (차종·연도별 데이터 구조화)
+  - 🔍 현대·기아 **FAQ 데이터 크롤링 및 분석**
+  - 🗂 자동차 등록 데이터 + FAQ 데이터 **통합 DB 구축**
+  - 📈 Streamlit 기반 **데이터 분석 대시보드**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+---
+
+### 6) 🎓 Drop Signal Detector: 학생 학업 중도 이탈 예측 시스템
+> **Repository**: [🎓 Drop Signal Detector](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-2nd-4TEAM.git)
+
+학생의 학적, 학업 성취도, 재정 상태, 가정 배경 등 다양한 데이터를 분석하여 **학업 중도 이탈(Dropout) 가능성을 조기에 예측하는 머신러닝 기반 Early Warning System**을 개발한 프로젝트입니다.  
+EDA 기반 변수 분석과 머신러닝 모델 비교를 통해 **학생 이탈 위험을 사전에 감지할 수 있는 예측 모델과 Streamlit 대시보드**를 구축했습니다.
+
+- **Role**: Data Engineer & ML Analysis / Frontend (Streamlit)
+
+- **Key Tech**:
+  - **EDA & Feature Analysis**: 상관관계 히트맵과 변수 중요도 분석을 통해 **학업 성취도 및 재정 요인이 Dropout에 미치는 영향 분석**
+  - **Machine Learning Modeling**: Logistic Regression, RandomForest, LightGBM, XGBoost 등 **다양한 모델 성능 비교 및 최적 모델 선정**
+  - **Imbalanced Data Handling**: `SMOTE` 및 `class_weight='balanced'` 적용하여 **Dropout 데이터 불균형 문제 해결**
+  - **Interactive Dashboard**: Streamlit 기반 **학생 데이터 입력 → Dropout 확률 실시간 예측 시스템 구축**
+
+- **Key Features**
+  - 📊 **4,424명 × 35개 변수** 학생 데이터 기반 학업 이탈 예측
+  - 🔍 학업 성취도, 재정 상태, 부모 학력 등 **주요 변수 영향 분석**
+  - 🤖 RandomForest 기반 **Accuracy 0.91 / Recall 0.97 성능 달성**
+  - 💻 Streamlit 기반 **Dropout Risk Prediction Dashboard**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 

@@ -36,7 +36,8 @@
 > **SKN AI Camp 20기 — 5차 프로젝트**
 > 
 > **Repository**: [🔍 FTO 중심 특허·디자인 침해 리스크 판단 AI 에이전트](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-FINAL-2TEAM.git)
-> **🏆 Awards**: SK네트웍스 Family AI 캠프 **우수상**
+> 
+> **🏆 Awards**: SK네트웍스 Family AI 캠프 **최우수상**
 
 제품 출시 전, 특허 침해 가능성을 **신호등(🔴🟡🟢) 시스템**으로 즉시 진단하는 법리 기반 AI 에이전트입니다.
 

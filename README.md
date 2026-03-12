@@ -39,19 +39,23 @@
 > 
 > **🏆 Awards**: SK네트웍스 Family AI 캠프 **최우수상**
 
-제품 출시 전, 특허 침해 가능성을 **신호등(🔴🟡🟢) 시스템**으로 즉시 진단하는 법리 기반 AI 에이전트입니다.
+제품 출시 전 **특허 및 디자인 침해 리스크를 자동으로 분석**하는 AI 기반 FTO(Freedom To Operate) 분석 시스템입니다.  
+RAG 기반 특허 검색과 파인튜닝된 sLLM을 결합하여 **법률 전문가 의존도가 높은 FTO 분석 과정을 자동화**했습니다.
 
-- **Role**: PM, Frontend (Admin Panel, Graph UI), AI Prompt Architecture
+- **Role**: AI Engineer & Backend Developer
 - **Key Tech**:
-  - **Multi-Agent Workflow**: 구성요소 분해 → RDB 필터 → Vector 유사도 → 법리 판단(All Elements Rule / 균등론) 7단계 파이프라인
-  - **Graph RAG Visualization**: D3.js 기반 특허 네트워크 그래프로 관계 시각화
-  - **Admin Panel**: Bizbell 디자인 시스템 기반 역할 분리(RBAC) UI 구현
-  - **Stack**: React · Django · FastAPI · OpenSearch · ChromaDB · Docker
+  - **Hybrid RAG Retrieval**: KURE-v1 임베딩 + BM25 Sparse 검색을 결합한 Hybrid RAG로 **78,000건 특허 → Top 10 후보 특허 자동 선별**
+  - **Domain sLLM Fine-Tuning**: Qwen2.5 모델을 QLoRA 기반으로 파인튜닝하여 **특허 청구항 해석 정확도 94.3% 달성**
+  - **Multi-Agent Workflow**: LangGraph 기반 에이전트 구조로 **특허 분석·디자인 유사도 검색·리포트 생성 자동화**
+  - **Vision-Language Analysis**: CLIP + Qwen2.5-VL을 활용하여 **디자인 특허 이미지 유사도 분석 및 리스크 설명 생성**
+  - **Cloud AI Infrastructure**: AWS EC2/RDS/S3 + RunPod GPU 서버를 활용한 **LLM 추론 파이프라인 구축**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Workflow-000000?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20DB-7C3AED?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20RDS%20%7C%20S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![RunPod](https://img.shields.io/badge/RunPod-GPU%20Inference-673AB7?style=flat-square)
 
 ---
 

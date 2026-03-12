@@ -35,7 +35,8 @@
 ### 1) ⚖️ FTOGuard: 특허 침해 리스크 분석 플랫폼
 > **SKN AI Camp 20기 — 5차 프로젝트**
 > 
-> **Repository**: [🔍 FTO 중심 특허·디자인 침해 리스크 판단 AI 에이전트](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-FINAL-2TEAM.git) > **🏆 Awards**: SK네트웍스 Family AI 캠프 **우수상**
+> **Repository**: [🔍 FTO 중심 특허·디자인 침해 리스크 판단 AI 에이전트](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-FINAL-2TEAM.git)
+> **🏆 Awards**: SK네트웍스 Family AI 캠프 **우수상**
 
 제품 출시 전, 특허 침해 가능성을 **신호등(🔴🟡🟢) 시스템**으로 즉시 진단하는 법리 기반 AI 에이전트입니다.
 
@@ -121,7 +122,7 @@
   - 주제: HTML/Python 22조 해커톤 팀장 
 - **서울여자대학교 Programming GURU2** | 우수상 (2026.01)
   - 주제: AI가 감정을 분석하고 오늘 실천 가능한 감정 완화 솔루션을 제안하는 감정 코칭 애플리케이션
-- **SK네트웍스 Family AI Camp 최종 프로젝트** 
+- **SK네트웍스 Family AI Camp 최종 프로젝트** | 우수상 (2026.03)
   - 주제: FTO 중심 특허·디자인 침해 리스크 판단 AI 에이전트
 
 ### 🎓 Education
@@ -131,7 +132,8 @@
 - **광명시 청소년 멘토링 프로그램 (IT 멘토)** |  중·고등학생 대상 IT 기초 교육 및 진로 멘토링 수행
 - **서울여자대학교 바롬종합설계프로젝트** |  불법 동영상 유포 및 저작권 침해 방지 캠페인 기획·수행
 - **서울여자대학교** | 디지털미디어학과/ 소프트웨어융합학과 졸업 (학점 /4.5)
-
+- **서울여자대학교 멋쟁이사자처럼 14기** | Backend Developer (2026.03 - 2026.12)
+- 
 ### 📜 Certificates
 - **데이터분석 준전문가 (ADsP)** | 한국데이터산업진흥원
 - **SQL 개발자 (SQLD)** | 한국데이터산업진흥원

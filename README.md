@@ -43,7 +43,7 @@
 제품 출시 전 **특허 및 디자인 침해 리스크를 자동으로 분석**하는 AI 기반 FTO(Freedom To Operate) 분석 시스템입니다.  
 RAG 기반 특허 검색과 파인튜닝된 sLLM을 결합하여 **법률 전문가 의존도가 높은 FTO 분석 과정을 자동화**했습니다.
 
-- **Role**: AI Engineer & Backend Developer
+- **Role**: AI Engineer & Frontend Developer
 - **Key Tech**:
   - **Hybrid RAG Retrieval**: KURE-v1 임베딩 + BM25 Sparse 검색을 결합한 Hybrid RAG로 **78,000건 특허 → Top 10 후보 특허 자동 선별**
   - **Domain sLLM Fine-Tuning**: Qwen2.5 모델을 QLoRA 기반으로 파인튜닝하여 **특허 청구항 해석 정확도 94.3% 달성**
@@ -238,7 +238,7 @@ EDA 기반 변수 분석과 머신러닝 모델 비교를 통해 **학생 이탈
 - **Corning AI Challenge** | 키워드 기반 AI 뉴스 추천 시스템 개발
 - **광명시 청소년 멘토링 프로그램 (IT 멘토)** | 중·고등학생 대상 IT 기초 교육 및 진로 멘토링 수행
 - **서울여자대학교 바롬종합설계프로젝트** | 불법 동영상 유포 및 저작권 침해 방지 캠페인 기획·수행
-- **서울여자대학교** | 디지털미디어학과/소프트웨어융합학과 졸업 (학점 /4.5)
+- **서울여자대학교** | 디지털미디어학과/소프트웨어융합학과 졸업예정 (학점 4.25/4.5)
 - **서울여자대학교 멋쟁이사자처럼 14기** | Backend Developer (2026.03 - 2026.12)
 
 ### 📜 Certificates
